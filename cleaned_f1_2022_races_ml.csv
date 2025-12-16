@@ -1,0 +1,23 @@
+round,gp_name,circuit_name,country,number_of_laps,circuit_length(km),race_distance(km),turns,drs_zones
+1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,57,5.412,308.238,15,3
+2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,50,6.174,308.45,27,3
+3,Heineken Australian GP,Albert Park Circuit,Australia,58,5.278,306.124,14,2
+4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,63,4.909,309.049,18,1
+5,Crypto.com Miami GP,Miami International Autodrome,United States,57,5.412,308.326,19,3
+6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,66,4.675,308.424,16,2
+7,Grand Prix de Monaco,Circuit de Monaco,Monaco,78,3.337,260.286,19,1
+8,Azerbaijan GP,Baku City Circuit,Azerbaijan,51,6.003,306.049,20,2
+9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,70,4.361,305.27,14,3
+10,Lenovo British GP,Silverstone Circuit,Great Britain,52,5.891,306.198,18,2
+11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,71,4.318,306.452,10,3
+12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,53,5.842,309.69,15,2
+13,Aramco Magyar Nagydij,Hungaroring,Hungary,70,4.381,306.63,14,1
+14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,44,7.004,308.052,19,2
+15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,72,4.259,306.587,14,2
+16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,53,5.793,306.72,11,2
+17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,61,5.063,308.706,23,3
+18,Honda Japanese GP,Suzuka International Racing Course,Japan,53,5.807,307.471,18,1
+19,Aramco United States GP,Circuit of the Americas,United States,56,5.513,308.405,20,2
+20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,71,4.304,305.354,17,3
+21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,71,4.309,305.879,15,2
+22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,58,5.281,306.183,16,2

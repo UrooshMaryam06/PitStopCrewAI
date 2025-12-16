@@ -1,0 +1,485 @@
+Driver,Constructor,Driver_Points,Driver_Podiums,Race_Round,Race_Name,Circuit,Circuit_Country,Circuit_Length_km,Circuit_Laps,Circuit_Turns,Circuit_DRS_Zones,Sprint_Points,Sprint_Laps
+Max Verstappen,Red Bull Racing,2011.5,77,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,8.0,21
+Charles Leclerc,Ferrari,868.0,24,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,6.0,21
+George Russell,Mercedes,294.0,9,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Carlos Sainz,Ferrari,782.5,15,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Lando Norris,McLaren,428.0,6,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,4.0,21
+Esteban Ocon,Alpine,364.0,2,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Fernando Alonso,Alpine,2061.0,98,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Kevin Magnussen,Haas,183.0,1,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Lance Stroll,Aston Martin,194.0,3,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Mick Schumacher,Haas,12.0,0,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,0
+Alexander Albon,Williams,201.0,2,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Nicholas Latifi,Williams,9.0,0,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,21
+Nyck De Vries,Williams,2.0,0,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,1,Gulf Air Bahrain GP,Bahrain International Circuit,Bahrain,5.412,57,15,3,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,8.0,21
+Charles Leclerc,Ferrari,868.0,24,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,6.0,21
+George Russell,Mercedes,294.0,9,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Carlos Sainz,Ferrari,782.5,15,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Lando Norris,McLaren,428.0,6,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,4.0,21
+Esteban Ocon,Alpine,364.0,2,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Fernando Alonso,Alpine,2061.0,98,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Kevin Magnussen,Haas,183.0,1,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Lance Stroll,Aston Martin,194.0,3,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Mick Schumacher,Haas,12.0,0,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,0
+Alexander Albon,Williams,201.0,2,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Nicholas Latifi,Williams,9.0,0,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,21
+Nyck De Vries,Williams,2.0,0,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,2,STC Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,6.174,50,27,3,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,6.0,21
+George Russell,Mercedes,294.0,9,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Lando Norris,McLaren,428.0,6,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Mick Schumacher,Haas,12.0,0,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,0
+Alexander Albon,Williams,201.0,2,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,21
+Nyck De Vries,Williams,2.0,0,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,3,Heineken Australian GP,Albert Park Circuit,Australia,5.278,58,14,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,8.0,21
+Charles Leclerc,Ferrari,868.0,24,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,6.0,21
+George Russell,Mercedes,294.0,9,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Carlos Sainz,Ferrari,782.5,15,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Lando Norris,McLaren,428.0,6,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,4.0,21
+Esteban Ocon,Alpine,364.0,2,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Fernando Alonso,Alpine,2061.0,98,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Kevin Magnussen,Haas,183.0,1,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Lance Stroll,Aston Martin,194.0,3,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Mick Schumacher,Haas,12.0,0,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,0
+Alexander Albon,Williams,201.0,2,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Nicholas Latifi,Williams,9.0,0,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,21
+Nyck De Vries,Williams,2.0,0,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,4,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Italy,4.909,63,18,1,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,8.0,21
+Charles Leclerc,Ferrari,868.0,24,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,6.0,21
+George Russell,Mercedes,294.0,9,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Carlos Sainz,Ferrari,782.5,15,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Lando Norris,McLaren,428.0,6,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,4.0,21
+Esteban Ocon,Alpine,364.0,2,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Fernando Alonso,Alpine,2061.0,98,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Kevin Magnussen,Haas,183.0,1,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Lance Stroll,Aston Martin,194.0,3,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Mick Schumacher,Haas,12.0,0,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,0
+Alexander Albon,Williams,201.0,2,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Nicholas Latifi,Williams,9.0,0,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,21
+Nyck De Vries,Williams,2.0,0,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,5,Crypto.com Miami GP,Miami International Autodrome,United States,5.412,57,19,3,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,6.0,21
+George Russell,Mercedes,294.0,9,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Lando Norris,McLaren,428.0,6,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Mick Schumacher,Haas,12.0,0,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,0
+Alexander Albon,Williams,201.0,2,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,21
+Nyck De Vries,Williams,2.0,0,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,6,Pirelli Gran Premio de España,Circuit de Barcelona-Catalunya,Spain,4.675,66,16,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,8.0,21
+Charles Leclerc,Ferrari,868.0,24,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,6.0,21
+George Russell,Mercedes,294.0,9,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Carlos Sainz,Ferrari,782.5,15,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Lando Norris,McLaren,428.0,6,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,4.0,21
+Esteban Ocon,Alpine,364.0,2,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Fernando Alonso,Alpine,2061.0,98,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Kevin Magnussen,Haas,183.0,1,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Lance Stroll,Aston Martin,194.0,3,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Mick Schumacher,Haas,12.0,0,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,0
+Alexander Albon,Williams,201.0,2,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Nicholas Latifi,Williams,9.0,0,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,21
+Nyck De Vries,Williams,2.0,0,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,7,Grand Prix de Monaco,Circuit de Monaco,Monaco,3.337,78,19,1,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,6.0,21
+George Russell,Mercedes,294.0,9,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Lando Norris,McLaren,428.0,6,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Mick Schumacher,Haas,12.0,0,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,0
+Alexander Albon,Williams,201.0,2,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,21
+Nyck De Vries,Williams,2.0,0,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,8,Azerbaijan GP,Baku City Circuit,Azerbaijan,6.003,51,20,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,8.0,21
+Charles Leclerc,Ferrari,868.0,24,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,6.0,21
+George Russell,Mercedes,294.0,9,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Carlos Sainz,Ferrari,782.5,15,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Lando Norris,McLaren,428.0,6,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,4.0,21
+Esteban Ocon,Alpine,364.0,2,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Fernando Alonso,Alpine,2061.0,98,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Kevin Magnussen,Haas,183.0,1,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Lance Stroll,Aston Martin,194.0,3,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Mick Schumacher,Haas,12.0,0,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,0
+Alexander Albon,Williams,201.0,2,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Nicholas Latifi,Williams,9.0,0,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,21
+Nyck De Vries,Williams,2.0,0,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,9,AWS Grand Prix du Canada,Circuit Gilles-Villeneuve,Canada,4.361,70,14,3,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,6.0,21
+George Russell,Mercedes,294.0,9,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Lando Norris,McLaren,428.0,6,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Mick Schumacher,Haas,12.0,0,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,0
+Alexander Albon,Williams,201.0,2,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,21
+Nyck De Vries,Williams,2.0,0,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,10,Lenovo British GP,Silverstone Circuit,Great Britain,5.891,52,18,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,8.0,21
+Charles Leclerc,Ferrari,868.0,24,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,6.0,21
+George Russell,Mercedes,294.0,9,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Carlos Sainz,Ferrari,782.5,15,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Lando Norris,McLaren,428.0,6,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,4.0,21
+Esteban Ocon,Alpine,364.0,2,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Fernando Alonso,Alpine,2061.0,98,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Kevin Magnussen,Haas,183.0,1,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Lance Stroll,Aston Martin,194.0,3,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Mick Schumacher,Haas,12.0,0,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,0
+Alexander Albon,Williams,201.0,2,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Nicholas Latifi,Williams,9.0,0,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,21
+Nyck De Vries,Williams,2.0,0,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,11,Rolex Grosser Preis von Österreich,Red Bull Ring,Austria,4.318,71,10,3,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,6.0,21
+George Russell,Mercedes,294.0,9,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Lando Norris,McLaren,428.0,6,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Mick Schumacher,Haas,12.0,0,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,0
+Alexander Albon,Williams,201.0,2,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,21
+Nyck De Vries,Williams,2.0,0,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,12,Lenovo Grand Prix de France,Circuit Paul Ricard,France,5.842,53,15,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,8.0,21
+Charles Leclerc,Ferrari,868.0,24,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,6.0,21
+George Russell,Mercedes,294.0,9,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Carlos Sainz,Ferrari,782.5,15,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Lando Norris,McLaren,428.0,6,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,4.0,21
+Esteban Ocon,Alpine,364.0,2,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Fernando Alonso,Alpine,2061.0,98,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Kevin Magnussen,Haas,183.0,1,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Lance Stroll,Aston Martin,194.0,3,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Mick Schumacher,Haas,12.0,0,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,0
+Alexander Albon,Williams,201.0,2,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Nicholas Latifi,Williams,9.0,0,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,21
+Nyck De Vries,Williams,2.0,0,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,13,Aramco Magyar Nagydij,Hungaroring,Hungary,4.381,70,14,1,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,6.0,21
+George Russell,Mercedes,294.0,9,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Lando Norris,McLaren,428.0,6,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Mick Schumacher,Haas,12.0,0,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,0
+Alexander Albon,Williams,201.0,2,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,21
+Nyck De Vries,Williams,2.0,0,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,14,Rolex Belgian GP,Circuit de Spa-Francorchamps,Belgium,7.004,44,19,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,6.0,21
+George Russell,Mercedes,294.0,9,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Lando Norris,McLaren,428.0,6,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Mick Schumacher,Haas,12.0,0,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,0
+Alexander Albon,Williams,201.0,2,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,21
+Nyck De Vries,Williams,2.0,0,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,15,Heineken Dutch GP,Circuit Zandvoort,Netherlands,4.259,72,14,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,6.0,21
+George Russell,Mercedes,294.0,9,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Lando Norris,McLaren,428.0,6,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Mick Schumacher,Haas,12.0,0,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,0
+Alexander Albon,Williams,201.0,2,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,21
+Nyck De Vries,Williams,2.0,0,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,16,Pirelli Gran Premio D'Italia,Autodromo Nazionale Monza,Italy,5.793,53,11,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,8.0,21
+Charles Leclerc,Ferrari,868.0,24,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,6.0,21
+George Russell,Mercedes,294.0,9,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Carlos Sainz,Ferrari,782.5,15,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Lando Norris,McLaren,428.0,6,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,4.0,21
+Esteban Ocon,Alpine,364.0,2,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Fernando Alonso,Alpine,2061.0,98,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Kevin Magnussen,Haas,183.0,1,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Lance Stroll,Aston Martin,194.0,3,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Mick Schumacher,Haas,12.0,0,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,0
+Alexander Albon,Williams,201.0,2,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Nicholas Latifi,Williams,9.0,0,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,21
+Nyck De Vries,Williams,2.0,0,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,17,Singapore Airlines Singapore GP,Marina Bay Street Circuit,Singapore,5.063,61,23,3,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,8.0,21
+Charles Leclerc,Ferrari,868.0,24,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,6.0,21
+George Russell,Mercedes,294.0,9,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Carlos Sainz,Ferrari,782.5,15,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Lando Norris,McLaren,428.0,6,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,4.0,21
+Esteban Ocon,Alpine,364.0,2,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Fernando Alonso,Alpine,2061.0,98,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Kevin Magnussen,Haas,183.0,1,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Lance Stroll,Aston Martin,194.0,3,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Mick Schumacher,Haas,12.0,0,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,0
+Alexander Albon,Williams,201.0,2,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Nicholas Latifi,Williams,9.0,0,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,21
+Nyck De Vries,Williams,2.0,0,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,18,Honda Japanese GP,Suzuka International Racing Course,Japan,5.807,53,18,1,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,6.0,21
+George Russell,Mercedes,294.0,9,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Lando Norris,McLaren,428.0,6,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Mick Schumacher,Haas,12.0,0,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,0
+Alexander Albon,Williams,201.0,2,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,21
+Nyck De Vries,Williams,2.0,0,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,19,Aramco United States GP,Circuit of the Americas,United States,5.513,56,20,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,8.0,21
+Charles Leclerc,Ferrari,868.0,24,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,6.0,21
+George Russell,Mercedes,294.0,9,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Carlos Sainz,Ferrari,782.5,15,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Lando Norris,McLaren,428.0,6,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,4.0,21
+Esteban Ocon,Alpine,364.0,2,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Fernando Alonso,Alpine,2061.0,98,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Kevin Magnussen,Haas,183.0,1,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Lance Stroll,Aston Martin,194.0,3,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Mick Schumacher,Haas,12.0,0,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,0
+Alexander Albon,Williams,201.0,2,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Nicholas Latifi,Williams,9.0,0,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,21
+Nyck De Vries,Williams,2.0,0,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,20,Gran Premio de la Ciudad de México,Autodromo Hermanos Rodriguez,Mexico,4.304,71,17,3,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,6.0,21
+George Russell,Mercedes,294.0,9,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Lando Norris,McLaren,428.0,6,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Mick Schumacher,Haas,12.0,0,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,0
+Alexander Albon,Williams,201.0,2,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,21
+Nyck De Vries,Williams,2.0,0,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,21,Heineken Gran Prêmio de São Paulo,Autodromo Jose Carlos Pace,Brazil,4.309,71,15,2,0.0,0
+Max Verstappen,Red Bull Racing,2011.5,77,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,8.0,21
+Charles Leclerc,Ferrari,868.0,24,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,7.0,21
+Sergio Perez,Red Bull Racing,1201.0,26,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,6.0,21
+George Russell,Mercedes,294.0,9,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Carlos Sainz,Ferrari,782.5,15,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,5.0,21
+Lewis Hamilton,Mercedes,4405.5,191,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Lando Norris,McLaren,428.0,6,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,4.0,21
+Esteban Ocon,Alpine,364.0,2,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Fernando Alonso,Alpine,2061.0,98,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Valtteri Bottas,Alfa Romeo,1787.0,67,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,2.0,21
+Daniel Ricciardo,McLaren,1311.0,32,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,3.0,21
+Sebastian Vettel,Aston Martin,3098.0,122,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Kevin Magnussen,Haas,183.0,1,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,1.0,21
+Pierre Gasly,AlphaTauri,332.0,3,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Lance Stroll,Aston Martin,194.0,3,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Mick Schumacher,Haas,12.0,0,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Yuki Tsunoda,AlphaTauri,44.0,0,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Guanyu Zhou,Alfa Romeo,6.0,0,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,0
+Alexander Albon,Williams,201.0,2,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Nicholas Latifi,Williams,9.0,0,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,21
+Nyck De Vries,Williams,2.0,0,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,0
+Nico Hulkenberg,Aston Martin,521.0,0,22,Etihad Airways Abu Dhabi GP,Yas Marina Circuit,Abu Dhabi,5.281,58,16,2,0.0,0
